@@ -1,0 +1,6 @@
+            while true do wait()
+if game:GetService("Players").LocalPlayer.Character["Fishing Rod"].Hook.Sparkles.Enabled == true
+then do game:GetService("Players").LocalPlayer.Character["Fishing Rod"]:Activate()
+end
+end
+end
